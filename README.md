@@ -1,6 +1,8 @@
 # Proyect
 
-This project is part of the *Front-End Web Development with React* course taught by *The Hong Kong University of Science and Technology*. In this project we will develop a web application using React, explore its components and make it operational.
+This project is part of the **Front-End Web Development with React** course taught by **The Hong Kong University of Science and Technology**. In this project we will develop a web application using React, explore its components and make it operational.
+
+View the web page by clicking [here](https://react-proyect-hong-kong.herokuapp.com/).
 
 ## Assignment 1
 
