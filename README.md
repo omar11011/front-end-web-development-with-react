@@ -21,3 +21,19 @@ View the web page by clicking [here](https://react-proyect-hong-kong.herokuapp.c
 ### Task 3
 
 1. Included a list of comments about the dish into the dishdetail view.
+
+## Assignment 2
+
+### Task 1
+
+1. The AboutComponent.js file has been downloaded and integrated into our React application.
+2. The React application has been appropriately updated to enable navigation to the About Us page of our application.
+
+### Task 2
+
+1. Implemented a new <RenderLeader> functional component in your application.
+2. Used the reactstrap <Media> component to render the details of a leader.
+
+### Task 3
+
+1. Updated the leaders variable within the AboutComponent() function to make use of the <RenderLeader> component to render the list of leaders.
